@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+
+<body style="background-color: #f0f8ff; font-family: Arial;">
+
+<!-- Header -->
+<h1 style="color: darkblue; text-align: center;">My Resume</h1>
+
+<h2 style="color: green;">John Doe</h2>
+<p>
+    <b>Email:</b> <a href="mailto:johndoe@gmail.com">johndoe@gmail.com</a><br>
+    <b>Phone:</b> +91 9876543210<br>
+    <b>Website:</b> <a href="https://www.example.com" target="_blank">www.example.com</a>
+</p>
+
+<hr>
+
+<!-- Career Objective -->
+<h3 style="color: maroon;">Career Objective</h3>
+<p>
+    To obtain a challenging position in a reputed organization where I can utilize my skills and grow professionally.
+</p>
+
+<hr>
+
+<!-- Education -->
+<h3 style="color: maroon;">Education</h3>
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr style="background-color: lightgray;">
+        <th>Qualification</th>
+        <th>Institution</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>BSc Computer Science</td>
+        <td>ABC College</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>Higher Secondary</td>
+        <td>XYZ School</td>
+        <td>2020</td>
+    </tr>
+</table>
+
+<hr>
+
+<!-- Skills -->
+<h3 style="color: maroon;">Skills</h3>
+<ul>
+    <li>HTML, CSS</li>
+    <li>Java Programming</li>
+    <li>Communication Skills</li>
+</ul>
+
+<hr>
+
+<!-- Projects -->
+<h3 style="color: maroon;">Projects</h3>
+<ol>
+    <li>College Website Development</li>
+    <li>Library Management System</li>
+</ol>
+
+<hr>
+
+<!-- Personal Details -->
+<h3 style="color: maroon;">Personal Details</h3>
+<p>
+    <b>Date of Birth:</b> 01-01-2000<br>
+    <b>Languages Known:</b> English, Hindi<br>
+    <b>Address:</b> Kerala, India
+</p>
+
+<hr>
+
+<!-- Declaration -->
+<h3 style="color: maroon;">Declaration</h3>
+<p>
+    I hereby declare that the above information is true to the best of my knowledge.
+</p>
+
+<br>
+
+<p>
+    <b>Date:</b> ________ <br>
+    <b>Place:</b> ________ <br><br>
+    <b>Signature:</b> John Doe
+</p>
+
+</body>
+</html>
