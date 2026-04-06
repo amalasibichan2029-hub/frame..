@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ABC College</title>
+</head>
+<body>
+
+<h1>Welcome to ABC College</h1>
+<p>ABC College is one of the leading institutions providing quality education.</p>
+
+<!-- Navigation using href -->
+<h2>Navigation</h2>
+<ul>
+    <li><a href="#courses">Courses</a></li>
+    <li><a href="#departments">Departments</a></li>
+    <li><a href="#faculty">Faculty</a></li>
+    <li><a href="#library">Library</a></li>
+</ul>
+
+<hr>
+
+<!-- Courses Section -->
+<h2 id="courses">Courses Offered</h2>
+<ul>
+    <li>BSc Computer Science</li>
+    <li>BCom</li>
+    <li>BA English</li>
+    <li>BBA</li>
+</ul>
+<a href="#top">Back to Top</a>
+
+<hr>
+
+<!-- Departments Section -->
+<h2 id="departments">Departments</h2>
+<ol>
+    <li>Department of Computer Science</li>
+    <li>Department of Commerce</li>
+    <li>Department of English</li>
+    <li>Department of Management</li>
+</ol>
+<a href="#top">Back to Top</a>
+
+<hr>
+
+<!-- Faculty Section -->
+<h2 id="faculty">Faculty Members</h2>
+<ul>
+    <li>Dr. Ramesh - Computer Science</li>
+    <li>Ms. Anjali - Commerce</li>
+    <li>Mr. John - English</li>
+    <li>Mrs. Priya - Management</li>
+</ul>
+<a href="#top">Back to Top</a>
+
+<hr>
+
+<!-- Library Section -->
+<h2 id="library">Library</h2>
+<p>The library provides a wide range of resources:</p>
+<ul>
+    <li>Textbooks</li>
+    <li>Reference Books</li>
+    <li>Journals</li>
+    <li>Digital Resources</li>
+</ul>
+<a href="#top">Back to Top</a>
+
+</body>
+</html>
