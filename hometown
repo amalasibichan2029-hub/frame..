@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hometown</title>
+
+    <!-- Internal CSS -->
+    <style>
+        body {
+            background-color: #e6f2ff;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+            font-size: 40px;
+        }
+
+        h2 {
+            color: darkgreen;
+        }
+
+        p {
+            color: #333;
+            font-size: 18px;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            border: 3px solid black;
+            border-radius: 10px;
+        }
+
+        .highlight {
+            color: maroon;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Welcome to My Hometown</h1>
+
+    <h2>Thiruvananthapuram</h2>
+
+    <!-- Image -->
+    <img src=""hometown.jpg" 
+          alt="hometown" width="400" height="250">
+
+    <p>
+        <span class="highlight">Thiruvananthapuram</span>, the capital city of Kerala, is known for its rich culture, 
+        beautiful beaches, and historical landmarks.
+    </p>
+
+    <h2>Famous Places</h2>
+    <ul>
+        <li>Padmanabhaswamy Temple</li>
+        <li>Kovalam Beach</li>
+        <li>Napier Museum</li>
+        <li>Zoo and Botanical Garden</li>
+    </ul>
+
+    <h2>Special Features</h2>
+    <p>
+        The city is famous for its traditional architecture, festivals, and delicious Kerala cuisine. 
+        It is a major center for education and research.
+    </p>
+
+    <h2>Culture</h2>
+    <p>
+        The people here celebrate festivals like <b>Onam</b> and <b>Vishu</b> with great enthusiasm. 
+        Classical art forms like Kathakali and Mohiniyattam are also popular.
+    </p>
+
+</div>
+
+</body>
+</html>
