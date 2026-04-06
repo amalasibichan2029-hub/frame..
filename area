@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Area of Rectangle</h2>
+<p id="result"></p>
+
+<script>
+    // Prompt user for input
+    let length = prompt("Enter the length:");
+    let width = prompt("Enter the width:");
+
+    // Convert to numbers
+    length = parseInt(length);
+    width = parseInt(width);
+
+    // Calculate area
+    let area = length * width;
+
+    // Display result
+    document.getElementById("result").innerHTML = "Area of Rectangle: " + area;
+</script>
+
+</body>
+</html>
